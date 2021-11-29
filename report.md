@@ -7,7 +7,7 @@
 На тестирование затрачено: 15 минут
 
 В результате тестирования выявлены следующие дефекты:
-* [Ссылка на issues](https://github.com/Stanislav-Litvinov/Card-Validation/issues/1) 
+* [Программа валидирует только карты с 16 цифрами](https://github.com/Stanislav-Litvinov/Card-Validation/issues/1) 
 
 ## Описание процесса тестирования
 
